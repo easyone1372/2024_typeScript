@@ -1,0 +1,14 @@
+//클라이언트
+typeScript: ?
+React[5~10]: 6월 20일까지
+AngularJS:MVC <-> React:V + MC[Next.js]: Angular는 MVC 모두 달라서 문법이 빡세지만 React는 V만 다룸 하지만 MC를 다루지 않기  때문에 Next.js를 이용해서 최적화한 코드를 다룰 줄 알아야함
+
+Next.js: 이게 뭐임? 
+
+//서버
+Java: 배울 문법없음. 3일내로 끝낼 예정
+DB: 이론보다 실전. 5일 내 계획
+//~6월 
+Spring-boot: 10일 동안 진행
+Swagger
+AWS or Azure: 배포
